@@ -72,4 +72,12 @@ body {
   .face:nth-child(6) {
     transform: rotateX(90deg) translateZ($s/2);
   }
+	.container
+  .cube.animate
+    textarea.face #{poem20}
+    textarea.face #{poem20}
+    textarea.face #{poem20}
+    textarea.face #{poem20}
+    textarea.face #{poem20}
+    textarea.face #{poem20}
 }
